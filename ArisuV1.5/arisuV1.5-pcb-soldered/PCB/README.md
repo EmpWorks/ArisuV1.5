@@ -1,13 +1,15 @@
 # Arisu Keyboard PCB
 アリス PCB designed using KiCad. The layout is inspired by Lyn's EM7 and TGR Alice with some modification of my own.
 
-### Arisu Keyboard PCB
-This board is a heavily-modified Goldfish Rev. C. While the schematic, basic layout, pinout (of course) etc is essentially the same, it uses 0603 components instead of 0402 and has some other changes.
+### Disclaimer
+This board is a heavily-modified FateNozomi arisu-pcb While the schematic, basic layout etc is essentially the same, it supports Hot-swap PCB Socket and has some other changes.
 
 Key differences:
-- I removed the extra [B] key on the right half and shifted the [NM,.?] row to the left by 0.25U.
-- Shifted the 3 keys to the right and added arrow keys.
-- Tweaked the bottom so that the 1.5U keys doesn't protrude out a little.
+- supports hotswap PCB sockets
+- added WS2812B Smd Led footprint for backlit 
+- encoder support
+- supports atmega32u4 MU/AU
+- USB-C compatibility
 
 Shifting the [NM,.?] row to the left by 0.25U required quite some work on the arrangement of keys for the right half.
 As a result, this does not give the same typing experience as Lyn's EM7 and TGR Alice.
