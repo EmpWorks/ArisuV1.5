@@ -11,13 +11,9 @@ Key differences:
 - supports atmega32u4 MU/AU
 - USB-C compatibility
 
-Shifting the [NM,.?] row to the left by 0.25U required quite some work on the arrangement of keys for the right half.
-As a result, this does not give the same typing experience as Lyn's EM7 and TGR Alice.
-Lyn's EM7 and TGR Alice uses the home row as the center point to vertically align both halves while I used the number row instead.
-Due to the nature of staggered keyboards, aligning using the number row resulted in the home row not being aligned.
-
 Disclaimer: Use these files at your own risk.
 
 ## Assembly
-For the components required, you may refer to the bill of materials included along with the release as reference or load up the design file in KiCad.
+For the components required, you may refer to the bill of materials here [BOM](https://github.com/donttellmywife1510/ArisuV1.5/blob/main/ArisuV1.5/arisuV1.5-pcb-soldered/PCB/arisu_BOM.xlsx).
+
 All the components can be soldered using a regular soldering iron, though soldering the Micro USB receptacle might be the biggest hurdle.
