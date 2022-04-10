@@ -1,7 +1,7 @@
 # ArisuV1.5 Keyboard PCB
 アリス PCB designed using KiCad. The layout is inspired by Lyn's EM7 and TGR Alice with some modification of my own.
 Originally created by FateNozomi
-### Disclaimer
+### Disclaimer 
 This board is a heavily-modified FateNozomi arisu-pcb While the schematic, basic layout etc is essentially the same, it supports additional features like Hot-swap,USB-C etc.
 
 Key differences:
